@@ -1,9 +1,9 @@
 {
     "posts": [
         {"id": 1, "title": "hello"},
-        {"id": 2, "title22": "Windalser"},
-        {"id": 3, "title": "Windalser3"},
-        {"id": 7, "title": "Windalser3"}
+        {"id": 2, {"id": 5, "title55": "Windalser"}},
+        {"id": 3, "smth3": "Windalser3"},
+        {"id": 7, "nechto": 999}
     ],
     "profile": {
         "name": "typicode"
