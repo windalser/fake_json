@@ -1,7 +1,7 @@
 {
     "posts": [
         {"id": 1, "title": "hello"},
-        {"id": 2, {"id": 5, "title55": "Windalser"}},
+        {"id": 2, "level2": {"id": 5, "title55": "Windalser"}},
         {"id": 3, "smth3": "Windalser3"},
         {"id": 7, "nechto": 999}
     ],
