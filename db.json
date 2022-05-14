@@ -5,7 +5,7 @@
             "title": "hello"
         },
         {"id": 2, "title": "Windalser"},
-        {"number3": 333}
+        {"number3": "333"}
     ],
     "profile": {
         "name": "typicode"
