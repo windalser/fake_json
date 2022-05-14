@@ -3,7 +3,8 @@
         {
             "id": 1,
             "title": "hello"
-        }
+        },
+        {"id": 2, "title": "Windalser"}
     ],
     "profile": {
         "name": "typicode"
